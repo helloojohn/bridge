@@ -10,7 +10,7 @@ const ibmPlexSerif = ({
 })
 
 export const metadata: Metadata = {
-  title: "Birdge",
+  title: "Bridge",
   description: "Bridge is a modern day banking platform for Nigerians",
   icons: {
     icon: "/icons/logo.svg",
